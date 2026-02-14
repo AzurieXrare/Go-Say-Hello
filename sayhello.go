@@ -1,6 +1,6 @@
 package main
 
-func main() string {
+func SayHello() string {
 
 	return "Hello World"
 }
